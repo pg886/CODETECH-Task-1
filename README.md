@@ -1,6 +1,15 @@
 **Name:** PRAGYA GOYAL
-**Company:** CODETECHIT SOLUTIONS
-**Position:** Intern
+
+**Company:** CODETECH IT SOLUTIONS PVT.LTD
+
+**Position:** INTERN
+
+**Intern ID:** CT8CSEH1639
+
+**Duration:** JULY 5TH,2024 TO SEPTEMBER 5TH,2024
+
+**Course:** CYBER SECURITY & ETHICAL HACKING
+
 
 
 **Overview of the project**
