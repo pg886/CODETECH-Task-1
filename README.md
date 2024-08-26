@@ -12,6 +12,8 @@
 
 
 
+
+
 **Overview of the project**
 
 **Project:** Tool to assess the strength of passwords entered by users
